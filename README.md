@@ -7,6 +7,15 @@ Dependencies
 ------------
 - [ir-slinger](https://github.com/bschwind/ir-slinger)
 - NodeJS
+```
+$ sudo apt-get install nodejs
+$ sudo ln -s /usr/bin/nodejs /usr/bin/node
+```
+- npm
+```
+$ sudo apt-get install npm
+$ sudo npm install -g npm
+```
 
 Build
 -----
