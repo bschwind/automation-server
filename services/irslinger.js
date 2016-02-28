@@ -26,7 +26,8 @@ function runCommands() {
 		commandRunning = true;
 		var command = queue.shift();
 
-		commandPromise("echo " + command)
+		// This is probably pretty unsafe, YOLO
+		commandPromise("sudo " + command.program + " " + command.code)
 		.then(function (stdout) {
 			console.log(stdout);
 			commandRunning = false;
@@ -40,8 +41,8 @@ function runCommands() {
 	}
 }
 
-irSlinger.sling = function (code) {
-	queue.push(code);
+irSlinger.sling = function (command) {
+	queue.push(command);
 
 	// Remove "older" commands if the queue gets too big
 	if (queue.length > 5) {

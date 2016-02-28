@@ -1,6 +1,7 @@
 "use strict";
 
 var db = require("db");
+var irslinger = require("services/irslinger");
 
 var lightController = {};
 
@@ -9,7 +10,10 @@ function getIRCode() {
 }
 
 lightController.toggleState = function (req, res) {
-	console.log(getIRCode());
+	irslinger.sling({
+		program: "ceiling-light",
+		code: getIRCode() // Technically this isn't needed since the code is static
+	});
 	
 	var data = {};
 

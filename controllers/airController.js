@@ -27,7 +27,10 @@ function getLatestState() {
 function setNewState(state) {
 	var irCode = getIRCodeFromState(state);
 
-	irslinger.sling(irCode);
+	irslinger.sling({
+		program: "aircon",
+		code: irCode
+	});
 
 	delete state["button"];
 	delete state["id"];
