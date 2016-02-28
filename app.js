@@ -36,7 +36,7 @@ app.post("/api/v1/aircon/power", airController.setPowerStatus);
 app.post("/api/v1/ceilinglight/toggle", lightController.toggleState);
 
 // Start the server
-var server = app.listen(8888, function () {
+var server = app.listen(8080, function () {
     console.log("Automation server started");
     console.log("Listening on port %d", server.address().port);
 });

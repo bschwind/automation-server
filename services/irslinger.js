@@ -29,7 +29,6 @@ function runCommands() {
 		// This is probably pretty unsafe, YOLO
 		commandPromise("sudo " + command.program + " " + command.code)
 		.then(function (stdout) {
-			console.log(stdout);
 			commandRunning = false;
 			// I dunno if this is better than just straight recursion,
 			// but it might prevent blowing the stack
