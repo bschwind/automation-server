@@ -2,26 +2,33 @@
 
 var db = require("db");
 var moment = require("moment");
+var Promise = require("bluebird");
 var irslinger = require("services/irslinger");
 var validation = require("services/validation");
 
 var airController = {};
 
+var latestState = {};
+
+// This is nasty, but needed for performance. SQLite read/write
+// performance on the Pi is terrible
+db.select([
+	"id",
+	"time_sent",
+	"mode",
+	"temperature",
+	"fan_speed",
+	"power_status"
+])
+.from("air_con_history")
+.orderBy("id", "DESC")
+.limit(1)
+.then(function (results) {
+	latestState = results[0];
+});
+
 function getLatestState() {
-	return db.select([
-		"id",
-		"time_sent",
-		"mode",
-		"temperature",
-		"fan_speed",
-		"power_status"
-	])
-	.from("air_con_history")
-	.orderBy("id", "DESC")
-	.limit(1)
-	.then(function (results) {
-		return results[0];
-	});
+	return Promise.resolve(latestState);
 }
 
 function setNewState(state) {
@@ -37,13 +44,13 @@ function setNewState(state) {
 
 	state.time_sent = moment().unix();
 
-	return db("air_con_history")
-	.returning("id")
+	db("air_con_history")
 	.insert(state)
-	.then(function (newID) {
-		state.id = newID[0];
-		return state;
-	});
+	.then(function (newID) {});
+
+	latestState = state;
+
+	return state;
 }
 
 // int -> string
@@ -190,7 +197,7 @@ airController.setTemperature = function (req, res) {
 	.then(function (fields) {
 		return getLatestState()
 		.then(function (state) {
-			state.temperature = fields.temperature;
+			state.temperature = Number(fields.temperature);
 			state.button = "UP/DOWN";
 
 			return setNewState(state);
@@ -242,10 +249,24 @@ airController.setFanSpeed = function (req, res) {
 airController.toggleFanDirection = function (req, res) {
 	var data = {};
 
-	data.message_code = 1;
-	data.message = "OK";
+	return getLatestState()
+	.then(function (state) {
+		state.button = "FAN_DIRECTION";
 
-	res.status(200).json(data);
+		return setNewState(state);
+	})
+	.then(function (newState) {
+		data.message_code = 1;
+		data.message = "OK";
+		data.result = newState;
+		res.status(200).json(data);
+	})
+	.catch(validation.ValidationError, function (err) {
+		data.message_code = 2;
+		data.message = "Invalid data";
+		data.errors = err.messages;
+		res.status(400).json(data);
+	});
 };
 
 airController.setPowerStatus = function (req, res) {
