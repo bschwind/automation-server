@@ -2,6 +2,7 @@
 
 var db = require("db");
 var moment = require("moment");
+var irslinger = require("services/irslinger");
 var validation = require("services/validation");
 
 var airController = {};
@@ -25,7 +26,8 @@ function getLatestState() {
 
 function setNewState(state) {
 	var irCode = getIRCodeFromState(state);
-	console.log(irCode);
+
+	irslinger.sling(irCode);
 
 	delete state["button"];
 	delete state["id"];
@@ -84,7 +86,7 @@ function getIRCodeFromState(state) {
 
 	code += temperatureCode;
 
-	// Time-specific code
+	// Timer-specific code
 	code += "00000000111111110000000011111111000000001111111100000000111111110000000011111111";
 
 	// Mode
