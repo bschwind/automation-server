@@ -14,6 +14,7 @@ var airController = require("controllers/airController");
 var lightController = require("controllers/ceilingLight");
 
 // Services
+var sqs = require("services/sqs");
 
 // Create app
 var app = express();
@@ -26,17 +27,14 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 // Air Conditioner
 app.get("/api/v1/aircon", airController.getState);
-app.post("/api/v1/aircon/mode", airController.setMode);
-app.post("/api/v1/aircon/temperature", airController.setTemperature);
-app.post("/api/v1/aircon/fanspeed", airController.setFanSpeed);
+app.post("/api/v1/aircon", airController.setState);
 app.post("/api/v1/aircon/fandirection", airController.toggleFanDirection);
-app.post("/api/v1/aircon/power", airController.setPowerStatus);
 
 // Ceiling Light
 app.post("/api/v1/ceilinglight/toggle", lightController.toggleState);
 
 // Start the server
-var server = app.listen(8080, function () {
+var server = app.listen(7777, function () {
     console.log("Automation server started");
     console.log("Listening on port %d", server.address().port);
 });

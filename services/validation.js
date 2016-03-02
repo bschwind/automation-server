@@ -192,4 +192,55 @@ validation.run = function (req, fields) {
 	});
 };
 
+validation.runOnObject = function (object, fields) {
+	return new Promise(function (resolve, reject) {
+		var errors = {};
+		var validFields = {};
+
+		Object.keys(fields).forEach(function (fieldName) {
+			var validationFunctions = fields[fieldName];
+			var required = validationFunctions.indexOf(validation.required) >= 0;
+			var fieldValue = object[fieldName];
+
+			if (required) {
+				if (!fieldValue) {
+					// Error, missing required field
+					addError(fieldName, "required", errors);
+					// errors.push(fieldName + " is a required field");
+				} else {
+					// Continue with validation
+					var validationResults = runValidationFunctions(validationFunctions, fieldValue);
+
+					// If we have error messages
+					if (validationResults.length > 0) {
+						validationResults.forEach(function (result) {
+							addError(fieldName, result, errors);
+						});
+					} else {
+						validFields[fieldName] = fieldValue;
+					}
+				}
+			} else if (fieldValue) {
+				// Continue with validation on optional field if present
+				var validationResults = runValidationFunctions(validationFunctions, fieldValue);
+
+				// If we have error messages
+				if (validationResults.length > 0) {
+					validationResults.forEach(function (result) {
+						addError(fieldName, result, errors);
+					});
+				} else {
+					validFields[fieldName] = fieldValue;
+				}
+			}
+		});
+
+		if (Object.keys(errors).length > 0) {
+			reject(new ValidationError(errors));
+		} else {
+			resolve(validFields);
+		}
+	});
+};
+
 module.exports = validation;
