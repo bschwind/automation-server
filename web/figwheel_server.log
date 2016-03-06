@@ -1,0 +1,1587 @@
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.287 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/defo at line 10 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/app-state at line 10 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/app-state at line 14 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.202 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.142 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.128 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.127 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.134 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.114 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.142 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.138 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.117 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.128 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.139 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.113 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mERROR: Invalid token: : on file /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs, line 12, column 28
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.092 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.12 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.135 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mERROR: Invalid token: :fan-speed: on file /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs, line 13, column 38
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.087 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.108 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.112 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.122 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.125 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.137 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/cusor at line 22 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.16 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/cusor at line 22 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.149 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.132 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.12 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.127 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.124 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.123 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.122 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.111 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.129 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.119 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.111 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.12 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.121 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.117 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs-http.client, could not locate cljs_http/client.cljs, cljs_http/client.cljc, or Closure namespace "cljs-http.client" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.075 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs-http.client, could not locate cljs_http/client.cljs, cljs_http/client.cljc, or Closure namespace "cljs-http.client" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.075 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs-http.client, could not locate cljs_http/client.cljs, cljs_http/client.cljc, or Closure namespace "cljs-http.client" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.077 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/go at line 21 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/post-api at line 21 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 30 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 31 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.505 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/go at line 21 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/post-api at line 21 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/email at line 21 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/password at line 22 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 30 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 31 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/error-atom at line 32 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.426 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/go at line 21 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/post-api at line 21 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/email at line 21 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/password at line 22 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 30 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 31 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/error-atom at line 32 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.411 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/api-base-path at line 21 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/api-user-path at line 21 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/go at line 25 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/post-api at line 25 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/email at line 26 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/password at line 27 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 35 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 36 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/error-atom at line 37 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.378 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/go at line 25 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/post-api at line 25 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/email at line 26 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/password at line 27 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 35 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 36 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/error-atom at line 37 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.37 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/api-base-path at line 21 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/api-user-path at line 21 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/data at line 23 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs, line 23, column 96
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.209 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/data at line 23 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs, line 23, column 96
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/go at line 25 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/post-api at line 25 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/email at line 26 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/password at line 27 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 35 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 36 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/error-atom at line 37 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.398 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/go at line 25 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/post-api at line 25 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/email at line 26 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/password at line 27 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 35 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 36 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/error-atom at line 37 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.321 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/go at line 25 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/post-api at line 25 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/password at line 27 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 35 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 36 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/error-atom at line 37 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.34 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/go at line 28 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/post-api at line 28 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 38 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 39 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/error-atom at line 40 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.146 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/go at line 28 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/post-api at line 28 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 38 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 39 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/error-atom at line 40 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.288 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/go at line 28 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/post-api at line 28 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 38 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 39 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/error-atom at line 40 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.326 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/go at line 28 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/post-api at line 28 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 38 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 39 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/error-atom at line 40 /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.308 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/post-api at line 29 src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 39 src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 40 src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/error-atom at line 41 src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.552 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/connect-to-chat at line 39 src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/fetch-conversations at line 40 src/automation/core.cljs
+WARNING: Use of undeclared Var automation.core/error-atom at line 41 src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.346 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mERROR: EOF while reading, starting at line 28 and column 1 on file /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs, line 62, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mERROR: EOF while reading, starting at line 28 and column 1 on file /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs, line 62, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.096 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.185 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.195 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.181 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.17 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.59 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.304 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.307 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.283 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/password at line 49 src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.34 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.383 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.29 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.215 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.226 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.22 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.221 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.207 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.234 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.244 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.444 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.372 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.328 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.3 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.249 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.307 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.235 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.235 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.245 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/de at line 57 src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.307 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/de at line 57 src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.192 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.182 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.209 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.186 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.183 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.189 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.202 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.175 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.151 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.208 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.196 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.185 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.166 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.19 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.259 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.244 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.191 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.188 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.166 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.245 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.209 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.181 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.169 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.168 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.174 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.364 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.725 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.374 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.366 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.304 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.275 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.209 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.286 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.233 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.192 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.182 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.181 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.204 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.227 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.188 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.19 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.206 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.175 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.174 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.17 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.191 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs, line 69, column 32
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.156 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.179 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.169 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.199 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.183 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.167 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.191 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.156 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.185 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.164 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.183 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.16 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.165 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.165 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.163 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.167 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.183 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.186 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.165 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.16 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.168 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.189 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.161 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.154 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.168 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.188 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.165 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.16 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.193 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.158 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.16 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.164 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.165 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.163 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.154 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs, line 75, column 25
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.122 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.167 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.161 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mERROR: Invalid number format [70px] on file /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs, line 53, column 21
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.12 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.16 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.163 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.149 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.148 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.161 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.164 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.163 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.151 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.154 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.154 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.15 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mERROR: Invalid number format [78D3FF] on file /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs, line 76, column 26
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.118 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.16 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.154 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.161 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.151 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+WARNING: Use of undeclared Var automation.core/col at line 62 src/automation/core.cljs
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.197 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.156 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.166 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.161 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.169 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.157 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.146 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.156 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.166 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.149 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.215 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.157 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.152 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.163 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.157 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.157 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.167 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.145 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.163 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.163 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.158 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.167 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.152 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.927 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.454 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.332 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.336 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.323 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.364 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.389 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.311 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.306 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.286 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.246 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.239 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.245 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.243 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.274 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.219 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.211 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.23 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.254 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.252 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.245 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.232 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.235 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.275 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.211 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.219 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.237 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.301 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.222 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.214 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.208 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.27 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.22 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.283 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.205 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.215 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.207 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.195 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.226 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.199 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.207 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.235 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs, line 50, column 47
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.149 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.119 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mANALYSIS ERROR: Too few arguments to if at line 34 src/automation/core.cljs on file src/automation/core.cljs, line 34, column 7
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.129 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.183 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.191 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.199 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mERROR: EOF while reading, starting at line 33 and column 1 on file /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs, line 113, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/automation.js" failed.
+[0mERROR: EOF while reading, starting at line 33 and column 1 on file /Users/brian/projects/automationServer/web/automation/src/automation/core.cljs, line 113, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.114 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.175 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.188 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.184 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.173 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.169 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.167 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.177 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.162 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.17 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.166 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.333 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.19 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.158 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.167 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.156 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.168 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.156 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.168 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.166 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.173 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.175 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.165 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.174 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.171 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.17 seconds.[0m
+sending changed CSS file: resources/public/css/style.css
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.16 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.166 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/automation.js" from ["src"]...
+notifying browser that file changed:  out/automation/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/automation.js" in 0.183 seconds.[0m

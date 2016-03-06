@@ -1,0 +1,142 @@
+/* some style */
+
+* {
+	/*border: 1px solid red; */
+}
+
+body {
+	margin: 0;
+}
+
+#clicker {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: -4px;
+}
+
+#aircon {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	justify-content: center;
+}
+
+#bulb {
+	border-radius: 50%;
+	width: 80px;
+}
+
+#bulb:active {
+	background-color: #FFFC90;
+	box-shadow: #E0DA0F 1px 1px 100px;
+	border-radius: 100%;
+}
+
+#temp-control {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-top: -60px;
+}
+
+p.temperature {
+	font-size: 100px;
+	font-family: "Roboto", sans-serif;
+	font-weight: 100;
+	margin-left: -70px;
+}
+
+#mode {
+	display: flex;
+	flex-direction: row;
+	margin-top: -40px;
+}
+
+div.heat,
+div.cool,
+div.dry {
+	border-radius: 50%;
+	border: 1px solid red;
+	content: "";
+	width: 75px;
+	height: 75px;
+	margin-top: -50px;
+}
+
+div.heat {
+	border: 3px solid #FF7D83;
+	margin-right: 10px;
+}
+
+div.heat[checked] {
+	background-color: #FF7D83;
+}
+
+div.cool {
+	border: 3px solid #78D3FF;
+	margin-right: 10px;
+}
+
+div.dry {
+	border: 3px solid #F1F1BD;
+}
+
+#fan-speed {
+	display: flex;
+	flex-direction: row;
+	margin-top: 30px;
+	align-items: center;
+}
+
+#power-icon[data-powered="ON"] {
+	background-color: #FF7722;
+	border-radius: 50%;
+}
+
+
+
+
+
+
+.arrowUp,
+.arrowDown {
+    position: relative;
+    display: block;
+    height: 90px;/*height should be double border*/
+    margin-left: 20px;
+}
+
+.arrowDown {
+	margin-top: 70px;
+}
+
+.arrowUp:before,
+.arrowUp:after,
+.arrowDown:before,
+.arrowDown:after {
+    position: absolute;
+    display: block;
+    content: "";
+    border: 45px solid transparent;/*adjust size*/
+}
+/*Change four 'top' values below to rotate (top/right/bottom/left)*/
+.arrowUp:before {
+    bottom: 0;
+    border-bottom-color: #000;/*arrowUp Color*/
+}
+.arrowUp:after {
+    bottom: -10px;/*adjust thickness*/
+    border-bottom-color: #fff;/*Match background colour*/
+}
+
+/*Change four 'top' values below to rotate (top/right/bottom/left)*/
+.arrowDown:before {
+    top: 0;
+    border-top-color: #000;/*arrowDown Color*/
+}
+.arrowDown:after {
+    top: -10px;/*adjust thickness*/
+    border-top-color: #fff;/*Match background colour*/
+}
