@@ -1,5 +1,3 @@
-/* some style */
-
 * {
 	/*border: 1px solid red; */
 }
@@ -38,49 +36,23 @@ body {
 	display: flex;
 	flex-direction: row;
 	align-items: center;
-	margin-top: -60px;
 }
 
 p.temperature {
 	font-size: 100px;
 	font-family: "Roboto", sans-serif;
 	font-weight: 100;
-	margin-left: -70px;
+	margin: 0;
+}
+
+#up-down {
+	display: flex;
+	flex-direction: column;
 }
 
 #mode {
 	display: flex;
 	flex-direction: row;
-	margin-top: -40px;
-}
-
-div.heat,
-div.cool,
-div.dry {
-	border-radius: 50%;
-	border: 1px solid red;
-	content: "";
-	width: 75px;
-	height: 75px;
-	margin-top: -50px;
-}
-
-div.heat {
-	border: 3px solid #FF7D83;
-	margin-right: 10px;
-}
-
-div.heat[checked] {
-	background-color: #FF7D83;
-}
-
-div.cool {
-	border: 3px solid #78D3FF;
-	margin-right: 10px;
-}
-
-div.dry {
-	border: 3px solid #F1F1BD;
 }
 
 #fan-speed {
@@ -90,53 +62,26 @@ div.dry {
 	align-items: center;
 }
 
+#lock {
+	margin-left: 35px;
+}
+
+#password-input {
+	display: flex;
+	align-items: center;
+	margin-top: 30px;
+	height: 75px;
+}
+
+#unlock {
+	margin-left: 29px;
+}
+
+#password-input > input {
+	width: 150px;
+}
+
 #power-icon[data-powered="ON"] {
 	background-color: #FF7722;
 	border-radius: 50%;
-}
-
-
-
-
-
-
-.arrowUp,
-.arrowDown {
-    position: relative;
-    display: block;
-    height: 90px;/*height should be double border*/
-    margin-left: 20px;
-}
-
-.arrowDown {
-	margin-top: 70px;
-}
-
-.arrowUp:before,
-.arrowUp:after,
-.arrowDown:before,
-.arrowDown:after {
-    position: absolute;
-    display: block;
-    content: "";
-    border: 45px solid transparent;/*adjust size*/
-}
-/*Change four 'top' values below to rotate (top/right/bottom/left)*/
-.arrowUp:before {
-    bottom: 0;
-    border-bottom-color: #000;/*arrowUp Color*/
-}
-.arrowUp:after {
-    bottom: -10px;/*adjust thickness*/
-    border-bottom-color: #fff;/*Match background colour*/
-}
-
-/*Change four 'top' values below to rotate (top/right/bottom/left)*/
-.arrowDown:before {
-    top: 0;
-    border-top-color: #000;/*arrowDown Color*/
-}
-.arrowDown:after {
-    top: -10px;/*adjust thickness*/
-    border-top-color: #fff;/*Match background colour*/
 }

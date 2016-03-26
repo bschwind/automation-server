@@ -10,11 +10,21 @@
 (defn error [message]
   (.error js/console message))
 
-(defonce app-state (atom {:password "Password"
+(defn set-item [key value]
+  (.setItem js/localStorage key value))
+
+(defn get-item [key]
+  (.getItem js/localStorage key))
+
+(defonce app-state (atom {:password "placeholder"
+                          :password-active false
                           :temperature 20
                           :mode "HEAT"
                           :fan-speed "AUTO"
                           :power-status "OFF"}))
+
+;; Load the password from local storage
+(swap! app-state assoc :password (get-item "password"))
 
 (defn clj->json [msg]
   (.stringify js/JSON (clj->js msg)))
@@ -45,17 +55,12 @@
       (swap! app-state assoc :power-status "OFF"))
     (send-aircon-state)))
 
-(defn atom-text-input [value-atom & [type]]
-  [:input {:type (or type "text")
+(defn password-input [value-atom]
+  [:input {:type "text"
            :value @value-atom
-           :on-change #(reset! value-atom (-> % .-target .-value))}])
-
-(defn hello-world []
-  (let [password-cursor (cursor app-state [:password])]
-    (fn []
-      [:div
-       [:h1 @password-cursor]
-       [atom-text-input password-cursor "password"]])))
+           :on-change #(do
+                         (reset! value-atom (-> % .-target .-value))
+                         (set-item "password" @value-atom))}])
 
 (defn ceiling-light-control []
   [:div {:id "clicker"}
@@ -82,32 +87,51 @@
                :fill color}])])
 
 (defn aircon-control []
-  [:div {:id "aircon"}
-   [:div {:id "temp-control"}
-    [:p.temperature (:temperature @app-state)]
-    [:div
-     [:div.arrowUp {:on-click #(do
-                                 (swap! app-state update-in [:temperature] inc)
-                                 (send-aircon-state))}]
-     [:div.arrowDown {:on-click #(do
-                                   (swap! app-state update-in [:temperature] dec)
-                                   (send-aircon-state))}]]]
-   [:div {:id "mode"}
-     [mode-circle "#FF7D83" "HEAT"]
-     [mode-circle "#78D3FF" "COOL"]
-     [mode-circle "#F1F1BD" "DEHUMIDIFY"]]
-   [:div {:id "fan-speed"}
-    [:img {:id "power-icon"
-           :data-powered (:power-status @app-state)
-           :src "images/power.svg"
-           :on-click #(toggle-aircon-power)
-           :width 75
-           :height 75}]
-    [:img {:src "images/fan.svg"
-           :on-click #(send-sqs-message {:device "air_conditioner"
-                                         :password (:password @app-state)})
-           :width 75
-           :height 75}]]])
+  (let [password-cursor (cursor app-state [:password])]
+    (fn []
+      [:div {:id "aircon"}
+       [:div {:id "temp-control"}
+        [:p.temperature (:temperature @app-state)]
+        [:div {:id "up-down"}
+         [:img.arrowUp {:src "images/chevron-up.svg"
+                :width 95
+                :on-click #(do
+                             (swap! app-state update-in [:temperature] inc)
+                             (send-aircon-state))}]
+         [:img.arrowDown {:src "images/chevron-down.svg"
+                :width 95
+                :on-click #(do
+                             (swap! app-state update-in [:temperature] dec)
+                             (send-aircon-state))}]]]
+       [:div {:id "mode"}
+         [mode-circle "#FF7D83" "HEAT"]
+         [mode-circle "#78D3FF" "COOL"]
+         [mode-circle "#F1F1BD" "DEHUMIDIFY"]]
+       [:div {:id "fan-speed"}
+        (if (:password-active @app-state)
+          [:div {:id "password-input"}
+           [password-input password-cursor]
+           [:img {:id "unlock"
+                  :src "images/lock-open.svg"
+                  :on-click #(swap! app-state assoc :password-active false)
+                  :width 30
+                  :height 30}]]
+          [:div {:id "fan-speed"}
+           [:img {:id "power-icon"
+                  :data-powered (:power-status @app-state)
+                  :src "images/power.svg"
+                  :on-click #(toggle-aircon-power)
+                  :width 75
+                  :height 75}]
+           [:img {:src "images/fan.svg"
+                  :on-click #(send-aircon-state)
+                  :width 75
+                  :height 75}]
+           [:img {:id "lock"
+                  :src "images/lock.svg"
+                  :on-click #(swap! app-state assoc :password-active true)
+                  :width 30
+                  :height 30}]])]])))
 
 (defn page []
   [:div

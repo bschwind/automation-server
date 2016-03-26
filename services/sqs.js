@@ -50,7 +50,7 @@ function receive(queueUrl) {
                 var body = message.Body;
                 var parsedMsg = tryParseMessage(body);
 
-                if (parsedMsg && parsedMsg.device && parsedMsg.data) {
+                if (parsedMsg && parsedMsg.device && parsedMsg.data && parsedMsg.password === "your password here!") {
                     emitter.emit(parsedMsg.device, parsedMsg.data);
                 }
 
