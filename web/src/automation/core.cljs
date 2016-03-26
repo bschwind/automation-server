@@ -56,7 +56,7 @@
     (send-aircon-state)))
 
 (defn password-input [value-atom]
-  [:input {:type "text"
+  [:input {:type "password"
            :value @value-atom
            :on-change #(do
                          (reset! value-atom (-> % .-target .-value))
