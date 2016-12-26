@@ -25,3 +25,24 @@ Run
 ---
 
     $ node app.js
+
+PM2 Startup
+-----------
+
+```
+$ sudo npm install -g pm2
+$ sudo env PATH=$PATH:/usr/local/bin pm2 startup systemd -u pi --hp /home/pi
+$ pm2 start automationServer.json
+$ pm2 save
+```
+
+```
+$ cat /home/pi/automationServer.json
+{
+  "apps" : [{
+    "name"        : "automation-server",
+    "script"      : "server.js",
+    "cwd"         : "/home/pi/projects/automation-server/"
+  }]
+}
+```
