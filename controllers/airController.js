@@ -1,6 +1,6 @@
 "use strict";
 
-var airConditioner = require("devices/airConditioner");
+var airConditioner = require("devices/ikumiAirConditioner");
 var validation = require("services/validation");
 
 var airController = {};
