@@ -63,7 +63,7 @@ function getIRCodeFromState(state) {
 	}
 
 	// Temperature
-	var temperatureCode = binaryUtil.decimalToBinaryPadded(state.temperature, 4).split("").reverse().join("");
+	var temperatureCode = binaryUtil.decimalToBinaryPadded(state.temperature - 16, 4).split("").reverse().join("");
 	temperatureCode = "0" + temperatureCode + "100";
 	code += temperatureCode;
 
@@ -75,19 +75,19 @@ function getIRCodeFromState(state) {
 	// Fan speed
 	switch (state.fan_speed) {
 		case "AUTO":
-			modeFanString += "0101";
+			code += "0101";
 			break;
 		case "STRONG":
-			modeFanString += "1110";
+			code += "1110";
 			break;
 		case "WEAK":
-			modeFanString += "0010";
+			code += "0010";
 			break;
 		case "VERY_WEAK":
-			modeFanString += "1100";
+			code += "1100";
 			break;
 		default:
-			modeFanString += "0101"; // AUTO
+			code += "0101"; // AUTO
 			break;
 	}
 
@@ -105,7 +105,7 @@ function getIRCodeFromState(state) {
 
 
 	var checksum = binaryUtil.byteStringChecksum(binaryUtil.stringToByteStrings(code));
-	code += checksum;
+	code += binaryUtil.decimalToBinaryPadded(checksum, 8).split("").reverse().join("");
 
 	return code;
 };
