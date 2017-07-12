@@ -85,3 +85,8 @@ p.temperature {
 	background-color: #FF7722;
 	border-radius: 50%;
 }
+
+/* Prevent a gray rectangle from displaying over our touchable elements */
+svg {
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}

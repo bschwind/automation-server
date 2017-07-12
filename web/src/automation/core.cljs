@@ -65,20 +65,25 @@
 (defn ceiling-light-control []
   [:div {:id "clicker"}
    [:img {:id "bulb"
-          :on-click #(send-sqs-message {:device "ceiling_light"
-                                        :password (:password @app-state)
-                                        :data {}})
+          :on-click #(do
+                       (send-sqs-message {:device "ceiling_light"
+                                          :password (:password @app-state)
+                                          :data {}})
+                       (.preventDefault %))
           :src "images/light.png"}]])
 
 (defn mode-circle [color value]
   [:svg {:width 88
-         :height 75}
-   [:circle {:on-click #(swap! app-state assoc :mode value)
+         :height 75
+         :style {:cursor "pointer"}} ;; Necessary for mobile safari to register touch events
+   [:circle {:on-click #(do
+                          (swap! app-state assoc :mode value)
+                          (.preventDefault %))
              :cx "50%"
              :cy "50%"
              :r 35
              :fill "white"
-             :stroke-width 4
+             :stroke-width 2
              :stroke color}]
    (if (= value (:mode @app-state))
      [:circle {:cx "50%"
@@ -97,12 +102,14 @@
                 :width 95
                 :on-click #(do
                              (swap! app-state update-in [:temperature] inc)
-                             (send-aircon-state))}]
+                             (send-aircon-state)
+                             (.preventDefault %))}]
          [:img.arrowDown {:src "images/chevron-down.svg"
                 :width 95
                 :on-click #(do
                              (swap! app-state update-in [:temperature] dec)
-                             (send-aircon-state))}]]]
+                             (send-aircon-state)
+                             (.preventDefault %))}]]]
        [:div {:id "mode"}
          [mode-circle "#FF7D83" "HEAT"]
          [mode-circle "#78D3FF" "COOL"]
@@ -113,23 +120,31 @@
            [password-input password-cursor]
            [:img {:id "unlock"
                   :src "images/lock-open.svg"
-                  :on-click #(swap! app-state assoc :password-active false)
+                  :on-click #(do
+                               (swap! app-state assoc :password-active false)
+                               (.preventDefault %))
                   :width 30
                   :height 30}]]
           [:div {:id "fan-speed"}
            [:img {:id "power-icon"
                   :data-powered (:power-status @app-state)
                   :src "images/power.svg"
-                  :on-click #(toggle-aircon-power)
+                  :on-click #(do
+                               (toggle-aircon-power)
+                               (.preventDefault %))
                   :width 75
                   :height 75}]
            [:img {:src "images/fan.svg"
-                  :on-click #(send-aircon-state)
+                  :on-click #(do
+                               (send-aircon-state)
+                               (.preventDefault %))
                   :width 75
                   :height 75}]
            [:img {:id "lock"
                   :src "images/lock.svg"
-                  :on-click #(swap! app-state assoc :password-active true)
+                  :on-click #(do
+                               (swap! app-state assoc :password-active true)
+                               (.preventDefault %))
                   :width 30
                   :height 30}]])]])))
 
