@@ -81,7 +81,7 @@ p.temperature {
 	width: 150px;
 }
 
-#power-icon[data-powered="ON"] {
+#power-icon[data-powered="true"] {
 	background-color: #FF7722;
 	border-radius: 50%;
 }

@@ -19,9 +19,29 @@
 (defonce app-state (atom {:password "placeholder"
                           :password-active false
                           :temperature 20
-                          :mode "HEAT"
-                          :fan-speed "AUTO"
-                          :power-status "OFF"}))
+                          :mode 0
+                          :fan-speed 0
+                          :power-status false
+                          :mqtt-connected false}))
+
+(defonce client (-> js/mqtt
+                  (.connect "wss://test.mosquitto.org:8081")))
+
+(println client)
+
+(-> client
+  (.on "connect" (fn []
+    (println "MQTT connected")
+    (swap! app-state assoc :mqtt-connected true))))
+
+(-> client
+  (.on "close" (fn []
+    (println "MQTT disconnected")
+    (swap! app-state assoc :mqtt-connected false))))
+
+(-> client
+  (.on "message" (fn [topic msg packet]
+    (println "received " (.toString msg) " from " topic))))
 
 ;; Load the password from local storage
 (swap! app-state assoc :password (get-item "password"))
@@ -34,25 +54,32 @@
                    :form-params data}))
 
 (defn send-sqs-message [msg]
-  (go (let [response (<! (post-path "https://sqs.ap-northeast-1.amazonaws.com/183315676158/ir_commands"
+  (go (let [response (<! (post-path "https://sqs.ap-northeast-1.amazonaws.com/183315676158/ir_commands_ikumi"
                                    {:Action "SendMessage"
                                     :MessageBody (clj->json msg)}))]
         (let [body (:body response)]
           (log body)))))
 
+(defn send-mqtt-message [msg]
+  (-> client
+    (.publish "43A68DCB-5317-4DF3-BE5E-0446650ACF8A" (clj->json msg))))
+
 (defn send-aircon-state []
-  (send-sqs-message {:device "air_conditioner"
-                     :password (:password @app-state)
-                     :data {:mode (:mode @app-state)
-                            :temperature (:temperature @app-state)
-                            :fan_speed (:fan-speed @app-state)
-                            :power_status (:power-status @app-state)}}))
+  (send-mqtt-message {:mode (:mode @app-state)
+                      :temp (:temperature @app-state)
+                      :fan_speed (:fan-speed @app-state)
+                      :fan_vertical_swing 0
+                      :fan_horizontal_swing 0
+                      :power_status (:power-status @app-state)
+                      :vertical_swing_toggle false
+                      :horizontal_swing_toggle false
+                      :half_degree_temp false}))
 
 (defn toggle-aircon-power []
   (do
-    (if (= (:power-status @app-state) "OFF")
-      (swap! app-state assoc :power-status "ON")
-      (swap! app-state assoc :power-status "OFF"))
+    (if (:power-status @app-state)
+      (swap! app-state assoc :power-status false)
+      (swap! app-state assoc :power-status true))
     (send-aircon-state)))
 
 (defn password-input [value-atom]
@@ -111,9 +138,9 @@
                              (send-aircon-state)
                              (.preventDefault %))}]]]
        [:div {:id "mode"}
-         [mode-circle "#FF7D83" "HEAT"]
-         [mode-circle "#78D3FF" "COOL"]
-         [mode-circle "#F1F1BD" "DEHUMIDIFY"]]
+         [mode-circle "#FF7D83" 0]
+         [mode-circle "#78D3FF" 1]
+         [mode-circle "#F1F1BD" 2]]
        [:div {:id "fan-speed"}
         (if (:password-active @app-state)
           [:div {:id "password-input"}
@@ -146,7 +173,11 @@
                                (swap! app-state assoc :password-active true)
                                (.preventDefault %))
                   :width 30
-                  :height 30}]])]])))
+                  :height 30}]])]
+        [:div
+         [:p (if (:mqtt-connected @app-state)
+          "MQTT Connected"
+          "MQTT Disconnected")]]])))
 
 (defn page []
   [:div
